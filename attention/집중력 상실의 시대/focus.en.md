@@ -1,12 +1,3 @@
-# **집중력 상실의 시대** 
-
-- Author: 홋타 슈고
-- Translator: 정지영
-- Publisher: 시옷책방
-- Reading Period: 2025.10.05 - 2025.10.07
-
----
-
 ## Purpose
 
 Lately, I’ve been losing focus.

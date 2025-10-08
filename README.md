@@ -6,7 +6,8 @@
 단순한 요약이 아니라, 내가 읽으며 느낀 생각과 통찰을 정리합니다.  
 
 ### 📚 책
-- [**집중력 상실의 시대** — 홋타 슈고](./focus/집중력%20상실의%20시대/focus.md)
+- [**집중력 상실의 시대** — 홋타 슈고](./attention/집중력%20상실의%20시대/README.md)
+- [**Digital Exhaustion** - Paul Leonardi](./attention/Digital%20Exhaustion/README.md)
 
 ### 📝 참고
 - 이 repo는 개인적인 학습 및 리뷰용으로 작성되었습니다.  
@@ -19,10 +20,11 @@
 ## 🇺🇸 Introduction
 
 A **personal reading notes repository**, capturing reflections and insights from the books I read.  
-Rather than simple summaries, these notes focus on how each book connects to real life
+Rather than simple summaries, these notes focus on how each book connects to real life.
 
 ### 📚 Books
-- [**집중력 상실의 시대** — 홋타 슈고](./focus/집중력%20상실의%20시대/focus.en.md)
+- [**집중력 상실의 시대** — 홋타 슈고](./attention/집중력%20상실의%20시대/README.md)
+- [**Digital Exhaustion** - Paul Leonardi](./attention/Digital%20Exhaustion/README.md)
 
 ### 📝 Notes
 - This repository is created **for personal study and review purposes only**.  
